@@ -1,0 +1,17 @@
+
+
+#ldgLogsID {display:none; }
+
+#bckimg{ background-image:url("imgd/eeee22.jpg");background-repeat: no-repeat;
+        background-position: right;height:625px;width:1425px;transform:translate(-5%,-2%);} 
+.bodyy{background:#2d212b; }
+#btnID:hover{background-color:#409fff;} 
+#pwErrDiv{ float:center;transform:translate(7px,-17px);display:none;}
+#pwErr2{color:#f25b50;} /** #f8d7da   background-color:#f8d7c1; */
+#btnID{border-radius:20px; border:1px solid #1C0910;color:white;background-color:#409fff; padding: 20px;
+cursor: pointer;width: 20%;margin-bottom:10px;transform:translate(40px,-205px);}
+#login{border-radius:30px;display:none;float:right;text-align:center;background-color:green;padding:0.5px;
+position:fixed;left:50%;top:10%;transform:translate(-50%,-15%);border: 2px solid #666;z-index: 9;}
+#passwordTxt{width: 80%;padding: 10px;margin: 5px 0 22px 0;border: none; background: #EEE;}
+#emailTxt{color:#5652BF;font-size:12px bold;}
+#btnSgn{transform:translate(3px,-7px);background-color:#409fff;color:white;border-radius:10px; border:1px solid #E38D17;padding:15px;width:70%;font-size:20px; }
